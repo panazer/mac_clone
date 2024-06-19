@@ -371,11 +371,6 @@ span{
     transition: 0.4s ease-in-out;
 }
 
-.experience-box span{
-    color: #355E3B;
-}
-
-
 .experience-box:hover{
     background: white;
     color: black;
