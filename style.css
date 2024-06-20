@@ -600,7 +600,10 @@ span{
 
 @media(max-width:895px)
 {
-    
+      #menu-icon{
+        display: block;
+        font-size: 2rem;
+     }
     
     .navbar{
         position: absolute;
@@ -650,12 +653,12 @@ span{
     
     
 }
-@media(max-width:895px)
+/*@media(max-width:895px)
 {
-    #menu-icon{
+     #menu-icon{
         display: block;
         font-size: 2rem;
- }
+     }
  
-}
+}*/
 
